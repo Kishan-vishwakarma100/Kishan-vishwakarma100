@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan-vishwakarma100&label=Profile%20views&color=0e75b6&style=flat" alt="kishan-vishwakarma100" /> </p>
 
-- 🌱 I’m currently learning **Android, React**
+- 🌱 I’m currently learning **MERN Stack, React**
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Web development, Java**
 
 - 📫 How to reach me **Kishanv9967287661@gmail.com**
 
