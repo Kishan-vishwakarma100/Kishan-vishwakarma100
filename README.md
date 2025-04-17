@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan-vishwakarma100&label=Profile%20views&color=0e75b6&style=flat" alt="kishan-vishwakarma100" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, React**
+- 🌱 I’m currently learning **Full Stack Web Dev, including Backend**
 
 - 💬 Ask me about **Web development, Java**
 
 - 📫 How to reach me **Kishanv9967287661@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny and tech enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
