@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Kishanv9967287661@gmail.com**
 
-- ⚡ Fun fact **I am funny and tech enthusiastic**
+- ⚡ Fun fact **I am funny and tech enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
